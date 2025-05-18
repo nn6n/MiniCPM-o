@@ -32,7 +32,7 @@
         "@rushstack/eslint-patch": "^1.8.0",
         "@vitejs/plugin-vue": "^5.0.5",
         "@vue/eslint-config-prettier": "^9.0.0",
-        "eslint": "^8.57.0",
+        "eslint": "^9.0.0",
         "eslint-plugin-vue": "^9.23.0",
         "husky": "^9.1.5",
         "less": "^4.2.0",
