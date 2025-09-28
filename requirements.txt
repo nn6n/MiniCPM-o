@@ -17,11 +17,11 @@ seaborn==0.13.0
 shortuuid==1.0.11
 #spacy==3.7.2
 timm==0.9.10
-torch==2.1.2
+torch==2.8.0
 torchvision==0.16.2
 tqdm==4.66.1
 protobuf==4.25.0
-transformers==4.40.0
+transformers==4.53.0
 typing_extensions==4.8.0
 uvicorn==0.24.0.post1
 #xformers==0.0.22.post7
