@@ -22,7 +22,7 @@ sty
 tabulate
 tiktoken
 timeout-decorator
-torch>=2.0.1
+torch>=2.9.0
 tqdm
 transformers
 typing_extensions==4.7.1
