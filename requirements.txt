@@ -33,3 +33,4 @@ gradio==4.41.0
 gradio_client
 http://thunlp.oss-cn-qingdao.aliyuncs.com/multi_modal/never_delete/modelscope_studio-0.4.0.9-py3-none-any.whl
 decord
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
