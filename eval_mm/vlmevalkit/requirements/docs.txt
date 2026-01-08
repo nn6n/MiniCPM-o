@@ -9,3 +9,4 @@ sphinx-notfound-page
 sphinx-tabs
 sphinxcontrib-jquery
 tabulate
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
