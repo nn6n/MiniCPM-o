@@ -17,7 +17,7 @@ seaborn==0.13.0
 shortuuid==1.0.11
 #spacy==3.7.2
 timm==0.9.10
-torch==2.1.2
+torch==2.9.0
 torchvision==0.16.2
 tqdm==4.66.1
 protobuf==4.25.0
@@ -33,3 +33,5 @@ gradio==4.41.0
 gradio_client
 http://thunlp.oss-cn-qingdao.aliyuncs.com/multi_modal/never_delete/modelscope_studio-0.4.0.9-py3-none-any.whl
 decord
+filelock>=3.20.3 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
