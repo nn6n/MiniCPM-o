@@ -22,9 +22,11 @@ sty
 tabulate
 tiktoken
 timeout-decorator
-torch>=2.0.1
+torch>=2.9.0
 tqdm
 transformers
 typing_extensions==4.7.1
 validators
 xlsxwriter
+filelock>=3.20.3 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
