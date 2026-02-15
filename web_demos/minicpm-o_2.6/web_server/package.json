@@ -16,7 +16,7 @@
         "@microsoft/fetch-event-source": "^2.0.1",
         "@ricky0123/vad-web": "^0.0.22",
         "@vueuse/core": "^11.0.3",
-        "axios": "^1.7.7",
+        "axios": "^1.13.5",
         "clipboard": "^2.0.11",
         "el-table-infinite-scroll": "^3.0.6",
         "element-plus": "^2.8.1",
